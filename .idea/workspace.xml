@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a1dda69-9efc-4193-9516-1c640d070768" name="Default Changelist" comment="" />
+    <list default="true" id="3a1dda69-9efc-4193-9516-1c640d070768" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/conf/or.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/conf/or.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_17_56_53_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_18_13_12_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_18_15_17_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_18_37_03_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_18_51_04_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_19_15_50_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_19_16_11_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/Sat_Feb_20_19_39_40_GMT_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/advanced-reports/extentreports/extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-reports/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-reports/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runners/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runners/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded1.png" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/embedded1.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1okvd1qdpShJxebuMXWkQnNIcQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -84,33 +106,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613845267072">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state width="1593" height="353" key="GridCell.Tab.0.bottom" timestamp="1626007329768">
+      <screen x="0" y="25" width="1680" height="947" />
     </state>
-    <state x="670" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.945@0.25.1680.945" timestamp="1613845267072" />
-    <state width="1423" height="236" key="GridCell.Tab.0.bottom" timestamp="1613850064614">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state width="1593" height="353" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1626007329768" />
+    <state width="1593" height="353" key="GridCell.Tab.0.bottom/0.25.1680.951@0.25.1680.951" timestamp="1626000108396" />
+    <state width="1593" height="353" key="GridCell.Tab.0.bottom/0.25.1680.953@0.25.1680.953" timestamp="1622026963882" />
+    <state width="1593" height="353" key="GridCell.Tab.0.center" timestamp="1626007329767">
+      <screen x="0" y="25" width="1680" height="947" />
     </state>
-    <state width="1423" height="236" key="GridCell.Tab.0.bottom/0.25.1680.945@0.25.1680.945" timestamp="1613850064614" />
-    <state width="1423" height="258" key="GridCell.Tab.0.bottom/0.25.1680.947@0.25.1680.947" timestamp="1613848603490" />
-    <state width="1423" height="236" key="GridCell.Tab.0.center" timestamp="1613850064613">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state width="1593" height="353" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1626007329767" />
+    <state width="1593" height="353" key="GridCell.Tab.0.center/0.25.1680.951@0.25.1680.951" timestamp="1626000108394" />
+    <state width="1593" height="353" key="GridCell.Tab.0.center/0.25.1680.953@0.25.1680.953" timestamp="1622026963880" />
+    <state width="1593" height="353" key="GridCell.Tab.0.left" timestamp="1626007329767">
+      <screen x="0" y="25" width="1680" height="947" />
     </state>
-    <state width="1423" height="236" key="GridCell.Tab.0.center/0.25.1680.945@0.25.1680.945" timestamp="1613850064613" />
-    <state width="1423" height="258" key="GridCell.Tab.0.center/0.25.1680.947@0.25.1680.947" timestamp="1613848603489" />
-    <state width="1423" height="236" key="GridCell.Tab.0.left" timestamp="1613850064613">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state width="1593" height="353" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1626007329767" />
+    <state width="1593" height="353" key="GridCell.Tab.0.left/0.25.1680.951@0.25.1680.951" timestamp="1626000108393" />
+    <state width="1593" height="353" key="GridCell.Tab.0.left/0.25.1680.953@0.25.1680.953" timestamp="1622026963876" />
+    <state width="1593" height="353" key="GridCell.Tab.0.right" timestamp="1626007329768">
+      <screen x="0" y="25" width="1680" height="947" />
     </state>
-    <state width="1423" height="236" key="GridCell.Tab.0.left/0.25.1680.945@0.25.1680.945" timestamp="1613850064613" />
-    <state width="1423" height="258" key="GridCell.Tab.0.left/0.25.1680.947@0.25.1680.947" timestamp="1613848603489" />
-    <state width="1423" height="236" key="GridCell.Tab.0.right" timestamp="1613850064613">
-      <screen x="0" y="25" width="1680" height="945" />
+    <state width="1593" height="353" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1626007329768" />
+    <state width="1593" height="353" key="GridCell.Tab.0.right/0.25.1680.951@0.25.1680.951" timestamp="1626000108395" />
+    <state width="1593" height="353" key="GridCell.Tab.0.right/0.25.1680.953@0.25.1680.953" timestamp="1622026963881" />
+    <state x="497" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1626774843809">
+      <screen x="0" y="25" width="1680" height="947" />
     </state>
-    <state width="1423" height="236" key="GridCell.Tab.0.right/0.25.1680.945@0.25.1680.945" timestamp="1613850064613" />
-    <state width="1423" height="258" key="GridCell.Tab.0.right/0.25.1680.947@0.25.1680.947" timestamp="1613848603490" />
-    <state x="497" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1613849430080">
-      <screen x="0" y="25" width="1680" height="945" />
-    </state>
-    <state x="497" y="328" key="com.intellij.ide.util.TipDialog/0.25.1680.945@0.25.1680.945" timestamp="1613849430080" />
+    <state x="497" y="329" key="com.intellij.ide.util.TipDialog/0.25.1680.947@0.25.1680.947" timestamp="1626774843809" />
+    <state x="497" y="329" key="com.intellij.ide.util.TipDialog/0.25.1680.948@0.25.1680.948" timestamp="1621246416152" />
   </component>
 </project>
